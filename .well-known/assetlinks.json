@@ -1,0 +1,11 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "se.helsingbond.helsingbond",
+      "sha256_cert_fingerprints":
+        ["17:33:F9:0D:D9:D3:3F:AF:9D:E7:C1:62:E8:FA:1E:8D:27:67:3F:1B:BB:87:94:7A:2F:E0:C2:69:84:BB:EF:AE"]
+    }
+  }
+]
