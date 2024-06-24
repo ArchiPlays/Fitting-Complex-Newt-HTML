@@ -14,9 +14,8 @@
                   "comment": "Matches any URL with a path that starts with /event/."
                },
                {
-                  "/": "/help/website/*",
-                  "exclude": true,
-                  "comment": "Matches any URL with a path that starts with /help/website/ and instructs the system not to open it as a universal link."
+                  "/": "/org/*",
+                  "comment": "Matches any URL with a path that starts with /event/."
                },
                {
                   "/": "/",
